@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TimmyTurner420
-- 👀 I’m interested in ... Python, Java, C, and all languages!!!
-- 🌱 I’m currently learning ...Python 3
+- 👀 I’m interested in ... Python, JavaScript, C++, and all languages!!!
+- 🌱 I’m currently learning ...Python 
 - 💞️ I’m looking to collaborate on ...Security of peoples on the web :)
 - 📫 How to reach me ...contact on contatomgs15@gmail.com
 
